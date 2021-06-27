@@ -2,8 +2,9 @@
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
 * Autor: Narvaez Pablo
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Título corto del trabajo:  Generación y Adquisición de seniales de Rf de baja frecuencia
+* Descripción:  El presente proyecto tiene como objetivo el desarrollo de las placas para un equipo (prototipo) que permita medir y analizar señales electrónicas en el
+dominio del tiempo y en el de la frecuencia.
 
 
 ## Licencia de este trabajo ##
