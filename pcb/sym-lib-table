@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ASBF-rescue)(type Legacy)(uri ${KIPRJMOD}/ASBF-rescue.lib)(options "")(descr ""))
+)

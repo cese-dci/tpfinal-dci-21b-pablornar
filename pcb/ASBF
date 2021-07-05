@@ -1,0 +1,76 @@
+Source,C:\Users\Pablo\Documents\GitHub\TPFinal-DCI-21B\ASBF\ASBF.sch
+Kicad Rev,Eeschema (5.1.10)-1
+Generated Date,28/06/2021 1:09:04
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+L3,47uh,Device,L
+C12,1uf,Device,CP1
+L2,47uh,Device,L
+R21,3k3,Device,R
+R22,3k3,Device,R
+R20,3k3,Device,R
+R17,25,Device,R
+R16,25,Device,R
+C20,100nf,Device,C
+C24,100nf,Device,C
+R19,50,Device,R
+R14,50,Device,R
+J14,Conn_01x02,Connector_Generic,Conn_01x02
+J8,Conn_01x02,Connector_Generic,Conn_01x02
+J9,Conn_01x02,Connector_Generic,Conn_01x02
+C23,100NF,Device,C
+C21,100NF,Device,C
+R18,2K,Device,R
+R15,2K,Device,R
+J12,Conn_01x03,Connector_Generic,Conn_01x03
+J13,Conn_01x03,Connector_Generic,Conn_01x03
+J11,Conn_01x03,Connector_Generic,Conn_01x03
+J10,Conn_01x01,Connector_Generic,Conn_01x01
+J7,Conn_01x13,Connector_Generic,Conn_01x13
+R13,0,Device,R
+R12,0,Device,R
+C19,100nf,Device,C
+C22,100nf,Device,C
+C18,100nf,Device,C
+C17,10uf,Device,CP1
+C16,10uf,Device,CP1
+C15,100nf,Device,C
+C14,100nf,Device,C
+U3,DAC5662A,Dac-rescue,DAC5662A-libreria
+J4,Conn_02x24_Counter_Clockwise,Connector_Generic,Conn_02x24_Counter_Clockwise
+C8,0,1 uf,Device,C
+C11,0.1uf,Device,C
+C9,10uf,Device,CP1
+C10,10uf,Device,CP1
+L1,L,Device,L
+C6,10pf,Device,C
+R9,22,Device,R
+R6,4.7k,Device,R
+R5,47,Device,R
+R4,12,Device,R
+R2,1k,Device,R
+R1,100,Device,R
+R3,240,Device,R
+RV2,1k,Device,R_POT
+RV1,10,Device,R_POT
+C2,0.1uf,Device,C
+C1,0.33uf,Device,C
+C3,0.1uf,Device,C
+R7,200,Device,R
+U1,LMH6702MF,Amplifier_Operational,LMH6702MF
+J1,Conn_01x02,Connector_Generic,Conn_01x02
+R11,4.7k,Device,R
+C7,0.1uf,Device,C
+C5,0.1uf,Device,C
+C4,10uf,Device,CP1
+RV3,1k,Device,R_POT
+R10,1,Device,R
+R8,1,Device,R
+U2,ADC08060,Analog_ADC,ADC08060
+J3,Screw_Terminal_01x03,Connector,Screw_Terminal_01x03
+J2,Screw_Terminal_01x02,Connector,Screw_Terminal_01x02

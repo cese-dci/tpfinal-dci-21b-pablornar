@@ -1,0 +1,75 @@
+ERC report (lun 28 jun 2021 20:56:40 -03, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /DAC/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(223,52 mm, 140,97 mm): Pin 1 (Power input) of component #PWR0125 is not driven (Net 54).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(182,88 mm, 66,04 mm): Pin 1 (Power input) of component #PWR0133 is not driven (Net 65).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(123,19 mm, 64,77 mm): Pin 16 (Power input) of component U3 is not driven (Net 84).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(128,27 mm, 64,77 mm): Pin 47 (Power input) of component U3 is not driven (Net 99).
+
+***** Sheet /FPGA_Conector/
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 119,38 mm): Pin 24 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 116,84 mm): Pin 23 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 114,30 mm): Pin 22 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 111,76 mm): Pin 21 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 109,22 mm): Pin 20 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 106,68 mm): Pin 19 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 104,14 mm): Pin 18 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 101,60 mm): Pin 17 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 99,06 mm): Pin 16 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 93,98 mm): Pin 14 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 96,52 mm): Pin 15 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 96,52 mm): Pin 34 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 93,98 mm): Pin 35 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 91,44 mm): Pin 13 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(138,43 mm, 88,90 mm): Pin 12 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 99,06 mm): Pin 33 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 101,60 mm): Pin 32 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 104,14 mm): Pin 31 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 106,68 mm): Pin 30 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 109,22 mm): Pin 29 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 111,76 mm): Pin 28 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 114,30 mm): Pin 27 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 116,84 mm): Pin 26 (Passive) of component J4 is unconnected.
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(151,13 mm, 119,38 mm): Pin 25 (Passive) of component J4 is unconnected.
+
+***** Sheet /ADC/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(77,47 mm, 67,31 mm): Pin 5 (Power input) of component U1 is not driven (Net 2).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(170,18 mm, 107,95 mm): Pin 17 (Power input) of component U2 is not driven (Net 9).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(77,47 mm, 82,55 mm): Pin 2 (Power input) of component U1 is not driven (Net 52).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(167,64 mm, 67,31 mm): Pin 18 (Power input) of component U2 is not driven (Net 57).
+
+ ** ERC messages: 32  Errors 0  Warnings 32
