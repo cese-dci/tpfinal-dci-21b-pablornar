@@ -6,12 +6,12 @@ encoding utf-8
 Sheet 1 4
 Title "Adquisicion y Generacion de Seniales de BF"
 Date "2021-07-05"
-Rev "V1.0"
-Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Rev "V1.1"
+Comp "Autor: Narvaez Pablo"
+Comment1 "Revision: 1ra"
+Comment2 "Revisor Alumno: Ariel Cerfoglia"
+Comment3 "Revisor Docente: Diego Brengi"
+Comment4 "Licencia: GPLv3"
 $EndDescr
 $Sheet
 S 7100 2600 2000 2550

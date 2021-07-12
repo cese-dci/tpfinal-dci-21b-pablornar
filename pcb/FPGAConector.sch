@@ -7,11 +7,11 @@ Sheet 3 4
 Title ""
 Date ""
 Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comp "Autor: Narvaez Pablo"
+Comment1 "Revision: 1ra"
+Comment2 "Revisor Alumno: Ariel Cerfoglia"
+Comment3 "Revisor Docente: Diego Brengi"
+Comment4 "Licencia: GPLv3"
 $EndDescr
 $Comp
 L Connector_Generic:Conn_02x24_Counter_Clockwise J?
