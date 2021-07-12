@@ -1157,4 +1157,30 @@ Wire Wire Line
 Wire Wire Line
 	5400 4950 5400 5050
 Connection ~ 5400 4950
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60EF3943
+P 9100 6200
+AR Path="/60DC5AA5/60EF3943" Ref="H?"  Part="1" 
+AR Path="/60E06463/60EF3943" Ref="H1"  Part="1" 
+F 0 "H1" H 9200 6246 50  0000 L CNN
+F 1 "MountingHole" H 9200 6155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 9100 6200 50  0001 C CNN
+F 3 "~" H 9100 6200 50  0001 C CNN
+	1    9100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 60EF3949
+P 10100 6200
+AR Path="/60DC5AA5/60EF3949" Ref="H?"  Part="1" 
+AR Path="/60E06463/60EF3949" Ref="H2"  Part="1" 
+F 0 "H2" H 10200 6246 50  0000 L CNN
+F 1 "MountingHole" H 10200 6155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 10100 6200 50  0001 C CNN
+F 3 "~" H 10100 6200 50  0001 C CNN
+	1    10100 6200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
