@@ -1,76 +1,18 @@
-Source,C:\Users\Pablo\Documents\GitHub\TPFinal-DCI-21B\ASBF\ASBF.sch
-Kicad Rev,Eeschema (5.1.10)-1
-Generated Date,28/06/2021 1:09:04
 
-Title,Not Set
-Company,Not Set
-Revision,Not Set
-Date Issue,Not Set
-
-Reference,Value,Library,Library Ref
-L3,47uh,Device,L
-C12,1uf,Device,CP1
-L2,47uh,Device,L
-R21,3k3,Device,R
-R22,3k3,Device,R
-R20,3k3,Device,R
-R17,25,Device,R
-R16,25,Device,R
-C20,100nf,Device,C
-C24,100nf,Device,C
-R19,50,Device,R
-R14,50,Device,R
-J14,Conn_01x02,Connector_Generic,Conn_01x02
-J8,Conn_01x02,Connector_Generic,Conn_01x02
-J9,Conn_01x02,Connector_Generic,Conn_01x02
-C23,100NF,Device,C
-C21,100NF,Device,C
-R18,2K,Device,R
-R15,2K,Device,R
-J12,Conn_01x03,Connector_Generic,Conn_01x03
-J13,Conn_01x03,Connector_Generic,Conn_01x03
-J11,Conn_01x03,Connector_Generic,Conn_01x03
-J10,Conn_01x01,Connector_Generic,Conn_01x01
-J7,Conn_01x13,Connector_Generic,Conn_01x13
-R13,0,Device,R
-R12,0,Device,R
-C19,100nf,Device,C
-C22,100nf,Device,C
-C18,100nf,Device,C
-C17,10uf,Device,CP1
-C16,10uf,Device,CP1
-C15,100nf,Device,C
-C14,100nf,Device,C
-U3,DAC5662A,Dac-rescue,DAC5662A-libreria
-J4,Conn_02x24_Counter_Clockwise,Connector_Generic,Conn_02x24_Counter_Clockwise
-C8,0,1 uf,Device,C
-C11,0.1uf,Device,C
-C9,10uf,Device,CP1
-C10,10uf,Device,CP1
-L1,L,Device,L
-C6,10pf,Device,C
-R9,22,Device,R
-R6,4.7k,Device,R
-R5,47,Device,R
-R4,12,Device,R
-R2,1k,Device,R
-R1,100,Device,R
-R3,240,Device,R
-RV2,1k,Device,R_POT
-RV1,10,Device,R_POT
-C2,0.1uf,Device,C
-C1,0.33uf,Device,C
-C3,0.1uf,Device,C
-R7,200,Device,R
-U1,LMH6702MF,Amplifier_Operational,LMH6702MF
-J1,Conn_01x02,Connector_Generic,Conn_01x02
-R11,4.7k,Device,R
-C7,0.1uf,Device,C
-C5,0.1uf,Device,C
-C4,10uf,Device,CP1
-RV3,1k,Device,R_POT
-R10,1,Device,R
-R8,1,Device,R
-U2,ADC08060,Analog_ADC,ADC08060
-J3,Screw_Terminal_01x03,Connector,Screw_Terminal_01x03
-J2,Screw_Terminal_01x02,Connector,Screw_Terminal_01x02
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>C:\Users\Pablo\Documents\GitHub\TPFinal-DCI-21B\ASBF\ASBF.sch</h1>
+    <p>21/07/2021 19:09:48</p>
+    <p>Eeschema (5.1.10)-1</p>
+    <p><b>Component Count:</b>75</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>C1</td><td>1</td><td>0.33uf</td><td>Device:C</td><td>~</td><td>Unpolarized capacitor</td><td></td></tr><tr><td>C2, C3, C5, C7, C11</td><td>5</td><td>0.1uf</td><td>Device:C</td><td>~</td><td>Unpolarized capacitor</td><td></td></tr><tr><td>C4</td><td>1</td><td>10uf</td><td>Device:CP1</td><td>~</td><td>Polarized capacitor, US symbol</td><td></td></tr><tr><td>C6</td><td>1</td><td>10pf</td><td>Device:C</td><td>~</td><td>Unpolarized capacitor</td><td></td></tr><tr><td>C8</td><td>1</td><td>0,1 uf</td><td>Device:C</td><td>~</td><td>Unpolarized capacitor</td><td></td></tr><tr><td>C9, C10, C16, C17</td><td>4</td><td>10uf</td><td>Device:CP1</td><td>~</td><td>Polarized capacitor, US symbol</td><td></td></tr><tr><td>C12</td><td>1</td><td>1uf</td><td>Device:CP1</td><td>~</td><td>Polarized capacitor, US symbol</td><td></td></tr><tr><td>C14, C15, C18, C19, C20, C21, C22, C23, C24</td><td>9</td><td>100nf</td><td>Device:C</td><td>~</td><td>Unpolarized capacitor</td><td></td></tr><tr><td>H1, H2</td><td>2</td><td>MountingHole</td><td>Mechanical:MountingHole</td><td>~</td><td>Mounting Hole without connection</td><td></td></tr><tr><td>J1, J6, J16</td><td>3</td><td>Conn_01x02</td><td>Connector_Generic:Conn_01x02</td><td>~</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J2</td><td>1</td><td>Screw_Terminal_01x02</td><td>Connector:Screw_Terminal_01x02</td><td>~</td><td>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J3, J17</td><td>2</td><td>Screw_Terminal_01x03</td><td>Connector:Screw_Terminal_01x03</td><td>~</td><td>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J4</td><td>1</td><td>Conn_02x24_Counter_Clockwise</td><td>Connector_Generic:Conn_02x24_Counter_Clockwise</td><td>~</td><td>Generic connector, double row, 02x24, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J5, J11, J12, J13, J15</td><td>5</td><td>Conn_01x03</td><td>Connector_Generic:Conn_01x03</td><td>~</td><td>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J7</td><td>1</td><td>Conn_01x13</td><td>Connector_Generic:Conn_01x13</td><td>~</td><td>Generic connector, single row, 01x13, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J8, J9, J14</td><td>3</td><td>Conn_01x02</td><td>Connector_Generic:Conn_01x02</td><td>~</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J10</td><td>1</td><td>Conn_01x01</td><td>Connector_Generic:Conn_01x01</td><td>~</td><td>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>L1</td><td>1</td><td>100uh</td><td>Device:L</td><td>~</td><td>Inductor</td><td></td></tr><tr><td>L2, L3</td><td>2</td><td>47uh</td><td>Device:L</td><td>~</td><td>Inductor</td><td></td></tr><tr><td>R1</td><td>1</td><td>100</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R2</td><td>1</td><td>1k</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R3</td><td>1</td><td>240</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R4</td><td>1</td><td>12</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R5</td><td>1</td><td>47</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R6, R11</td><td>2</td><td>4.7k</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R7</td><td>1</td><td>200</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R8, R10</td><td>2</td><td>1</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R9</td><td>1</td><td>22</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R12, R13</td><td>2</td><td>0</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R14, R19</td><td>2</td><td>50</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R15, R18</td><td>2</td><td>2K</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R16, R17</td><td>2</td><td>25</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>R20, R21, R22</td><td>3</td><td>3k3</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>RV1</td><td>1</td><td>10</td><td>Device:R_POT</td><td>~</td><td>Potentiometer</td><td></td></tr><tr><td>RV2, RV3</td><td>2</td><td>1k</td><td>Device:R_POT</td><td>~</td><td>Potentiometer</td><td></td></tr><tr><td>TR1, TR2</td><td>2</td><td>ADT4-6T</td><td>Transformer:ADT4-6T</td><td>https://www.minicircuits.com/pdfs/ADT4-6T+.pdf</td><td>1.5-70MHz 1:4 RF Transformer, Unbalanced to Balanced Center Tap, CD637</td><td></td></tr><tr><td>U1</td><td>1</td><td>LMH6702MF</td><td>Amplifier_Operational:LMH6702MF</td><td>http://www.ti.com/lit/ds/symlink/lmh6702.pdf</td><td>1.7 GHz Ultra-Low Distortion Wideband Op Amp, SOT-23-5</td><td></td></tr><tr><td>U2</td><td>1</td><td>ADC080200</td><td>ASBF-rescue:ADC080200-adc080200</td><td>http://www.ti.com/lit/ds/symlink/adc080200.pdf</td><td></td><td></td></tr><tr><td>U3</td><td>1</td><td>DAC5662A</td><td>ASBF-rescue:DAC5662A-libreria-Dac-rescue</td><td></td><td></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

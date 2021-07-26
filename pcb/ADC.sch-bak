@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 4
+Sheet 3 4
 Title "Adquisicion de datos"
 Date "2021-07-05"
 Rev "V1.0"
@@ -13,9 +13,6 @@ Comment2 "Revisor Alumno: Ariel Cerfoglia"
 Comment3 "Revisor Docente: Diego Brengi"
 Comment4 "Licencia: GPLv3"
 $EndDescr
-Wire Wire Line
-	6900 4350 7000 4350
-Connection ~ 7000 4350
 Wire Wire Line
 	6300 3400 6300 3350
 Wire Wire Line
@@ -37,7 +34,7 @@ U 1 1 60DFD51B
 P 6750 2050
 F 0 "C9" H 6865 2096 50  0000 L CNN
 F 1 "10uf" H 6865 2005 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 6750 2050 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" H 6750 2050 50  0001 C CNN
 F 3 "~" H 6750 2050 50  0001 C CNN
 	1    6750 2050
 	1    0    0    -1  
@@ -152,7 +149,7 @@ F 1 "1k" V 2295 4050 50  0000 C CNN
 F 2 "Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical" H 2500 4050 50  0001 C CNN
 F 3 "~" H 2500 4050 50  0001 C CNN
 	1    2500 4050
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 $Comp
 L Device:R_POT RV1
@@ -242,13 +239,13 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x02 J1
 U 1 1 60DFD60D
-P 1050 3550
-F 0 "J1" H 1200 3650 50  0000 C CNN
-F 1 "Conn_01x02" H 1150 3750 50  0000 C CNN
-F 2 "Connector_Coaxial:SMA_Amphenol_132134-16_Vertical" H 1050 3550 50  0001 C CNN
-F 3 "~" H 1050 3550 50  0001 C CNN
-	1    1050 3550
-	-1   0    0    1   
+P 1050 3450
+F 0 "J1" H 1200 3550 50  0000 C CNN
+F 1 "Conn_01x02" H 1150 3650 50  0000 C CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_132134-16_Vertical" H 1050 3450 50  0001 C CNN
+F 3 "~" H 1050 3450 50  0001 C CNN
+	1    1050 3450
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	8000 3150 8700 3150
@@ -300,8 +297,6 @@ F 3 "" H 3000 1300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	2600 1200 2800 1200
-Wire Wire Line
 	2600 1400 2650 1400
 $Comp
 L Device:C C7
@@ -331,7 +326,7 @@ U 1 1 60DFD671
 P 5000 4400
 F 0 "C4" H 5115 4446 50  0000 L CNN
 F 1 "10uf" H 5115 4355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 5000 4400 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" H 5000 4400 50  0001 C CNN
 F 3 "~" H 5000 4400 50  0001 C CNN
 	1    5000 4400
 	1    0    0    -1  
@@ -415,17 +410,6 @@ Text HLabel 8700 3850 2    50   Input ~ 0
 PWR_DWN
 Text HLabel 8700 3950 2    50   Input ~ 0
 CLK
-$Comp
-L Connector:Screw_Terminal_01x03 J3
-U 1 1 6107421F
-P 2400 1300
-F 0 "J3" H 2600 1450 50  0000 C CNN
-F 1 "Screw_Terminal_01x03" H 2650 1550 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 2400 1300 50  0001 C CNN
-F 3 "~" H 2400 1300 50  0001 C CNN
-	1    2400 1300
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	1450 1200 1900 1200
 Wire Wire Line
@@ -619,15 +603,13 @@ F 3 "" H 6750 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2600 1300 3000 1300
-Wire Wire Line
 	2750 2750 3150 2750
 $Comp
 L Connector:Screw_Terminal_01x02 J2
 U 1 1 610765E7
 P 1250 1300
-F 0 "J2" H 1168 975 50  0000 C CNN
-F 1 "Screw_Terminal_01x02" H 1168 1066 50  0000 C CNN
+F 0 "J2" H 1350 1600 50  0000 C CNN
+F 1 "Screw_Terminal_01x02" H 1200 1450 50  0000 C CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 1250 1300 50  0001 C CNN
 F 3 "~" H 1250 1300 50  0001 C CNN
 	1    1250 1300
@@ -750,28 +732,6 @@ Wire Wire Line
 Wire Wire Line
 	6750 2300 6750 2250
 Wire Wire Line
-	7100 2750 7000 2750
-Connection ~ 7000 2750
-Connection ~ 7100 2750
-Wire Wire Line
-	7100 4350 7050 4350
-Wire Wire Line
-	7100 4350 7300 4350
-Connection ~ 7100 4350
-Wire Wire Line
-	6900 2750 7000 2750
-$Comp
-L Analog_ADC:ADC08060 U2
-U 1 1 60DFD6C8
-P 7200 3550
-F 0 "U2" H 6400 4400 50  0000 L CNN
-F 1 "ADC08060" H 6450 4300 50  0000 C CNN
-F 2 "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm" H 7200 3550 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/adc08060.pdf" H 7200 3550 50  0001 C CNN
-	1    7200 3550
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	6450 2200 6450 2250
 Wire Wire Line
 	6450 2250 6750 2250
@@ -812,7 +772,7 @@ U 1 1 60DFD521
 P 7950 2100
 F 0 "C10" V 7698 2100 50  0000 C CNN
 F 1 "10uf" V 7789 2100 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 7950 2100 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" H 7950 2100 50  0001 C CNN
 F 3 "~" H 7950 2100 50  0001 C CNN
 	1    7950 2100
 	-1   0    0    -1  
@@ -853,8 +813,6 @@ Wire Wire Line
 Wire Wire Line
 	7050 4350 7050 4750
 Connection ~ 7050 4350
-Wire Wire Line
-	7050 4350 7000 4350
 Wire Wire Line
 	7400 4350 7400 4750
 Wire Wire Line
@@ -937,4 +895,48 @@ Wire Notes Line
 	4850 5200 4850 1050
 Wire Notes Line
 	8400 5200 8400 1050
+Wire Wire Line
+	7050 4350 7100 4350
+$Comp
+L ASBF-rescue:ADC080200-adc080200 U2
+U 1 1 60F9C145
+P 7200 3550
+AR Path="/60F9C145" Ref="U2"  Part="1" 
+AR Path="/60DC5AA5/60F9C145" Ref="U2"  Part="1" 
+F 0 "U2" H 7200 4531 50  0000 C CNN
+F 1 "ADC080200" H 7200 4440 50  0000 C CNN
+F 2 "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm" H 7200 3550 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/adc080200.pdf" H 7200 3550 50  0001 C CNN
+	1    7200 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 2750 7100 2750
+Connection ~ 7100 2750
+Wire Wire Line
+	7000 4350 7050 4350
+Wire Wire Line
+	6900 4350 7000 4350
+Connection ~ 7000 4350
+Wire Wire Line
+	6900 2750 7000 2750
+Connection ~ 7000 2750
+Wire Wire Line
+	7300 4350 7400 4350
+Connection ~ 7400 4350
+$Comp
+L Connector:Screw_Terminal_01x03 J3
+U 1 1 6107421F
+P 2400 1300
+F 0 "J3" H 2600 1450 50  0000 C CNN
+F 1 "Screw_Terminal_01x03" H 2650 1550 50  0000 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 2400 1300 50  0001 C CNN
+F 3 "~" H 2400 1300 50  0001 C CNN
+	1    2400 1300
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 1300 2600 1300
+Wire Wire Line
+	2800 1200 2600 1200
 $EndSCHEMATC

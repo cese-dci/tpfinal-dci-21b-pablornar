@@ -1,0 +1,130 @@
+Source:,/home/pablo/GitHub/TPFinal-DCI-21B/ASBF/ASBF.sch,,,,,
+Date:,mié 14 jul 2021 20:51:39 -03,,,,,
+Tool:,Eeschema 5.1.10-88a1d61d58~88~ubuntu18.04.1,,,,,
+Generator:,/usr/share/kicad/plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,75,,,,,
+,,,,,,
+Individual Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,C1,0.33uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C2,0.1uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C3,0.1uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C4,10uf,Device:CP1,Resistor_SMD:R_0805_2012Metric,~
+,,C5,0.1uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C6,10pf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C7,0.1uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C8,"0,1 uf",Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C9,10uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+,,C10,10uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+,,C11,0.1uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C12,1uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+,,C14,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C15,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C16,10uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+,,C17,10uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+,,C18,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C19,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C20,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C21,100NF,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C22,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C23,100NF,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,C24,100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+,,H1,MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_2.5mm,~
+,,H2,MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_2.5mm,~
+,,J1,Conn_01x02,Connector_Generic:Conn_01x02,Connector_Coaxial:SMA_Amphenol_132134-16_Vertical,~
+,,J2,Screw_Terminal_01x02,Connector:Screw_Terminal_01x02,TerminalBlock:TerminalBlock_bornier-2_P5.08mm,~
+,,J3,Screw_Terminal_01x03,Connector:Screw_Terminal_01x03,TerminalBlock:TerminalBlock_bornier-3_P5.08mm,~
+,,J4,Conn_02x24_Counter_Clockwise,Connector_Generic:Conn_02x24_Counter_Clockwise,Package_DIP:DIP-48_W15.24mm_LongPads,~
+,,J5,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~
+,,J6,Conn_01x02,Connector_Generic:Conn_01x02,Connector_Coaxial:SMA_Amphenol_132134-16_Vertical,~
+,,J7,Conn_01x13,Connector_Generic:Conn_01x13,Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical,~
+,,J8,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+,,J9,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+,,J10,Conn_01x01,Connector_Generic:Conn_01x01,Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical,~
+,,J11,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~
+,,J12,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~
+,,J13,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~
+,,J14,Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+,,J15,Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~
+,,J16,Conn_01x02,Connector_Generic:Conn_01x02,Connector_Coaxial:SMA_Amphenol_132134-16_Vertical,~
+,,J17,Screw_Terminal_01x03,Connector:Screw_Terminal_01x03,TerminalBlock:TerminalBlock_bornier-3_P5.08mm,~
+,,L1,100uh,Device:L,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+,,L2,47uh,Device:L,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+,,L3,47uh,Device:L,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+,,R1,100,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R2,1k,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R3,240,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R4,12,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R5,47,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R6,4.7k,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R7,200,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R8,1,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R9,22,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R10,1,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R11,4.7k,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R12,0,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R13,0,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R14,50,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R15,2K,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R16,25,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R17,25,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R18,2K,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R19,50,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R20,3k3,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R21,3k3,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,R22,3k3,Device:R,Resistor_SMD:R_1206_3216Metric,~
+,,RV1,10,Device:R_POT,Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical,~
+,,RV2,1k,Device:R_POT,Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical,~
+,,RV3,1k,Device:R_POT,Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical,~
+,,TR1,ADT4-6T,Transformer:ADT4-6T,RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm,https://www.minicircuits.com/pdfs/ADT4-6T+.pdf
+,,TR2,ADT4-6T,Transformer:ADT4-6T,RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm,https://www.minicircuits.com/pdfs/ADT4-6T+.pdf
+,,U1,LMH6702MF,Amplifier_Operational:LMH6702MF,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/lmh6702.pdf
+,,U2,ADC080200,ASBF-rescue:ADC080200-adc080200,Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm,http://www.ti.com/lit/ds/symlink/adc080200.pdf
+,,U3,DAC5662A,ASBF-rescue:DAC5662A-libreria-Dac-rescue,Package_QFP:TQFP-48_7x7mm_P0.5mm,
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,1,C1,0.33uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+2,5,"C2, C3, C5, C7, C11",0.1uf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+3,1,C4,10uf,Device:CP1,Resistor_SMD:R_0805_2012Metric,~
+4,1,C6,10pf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+5,1,C8,"0,1 uf",Device:C,Resistor_SMD:R_0805_2012Metric,~
+6,4,"C9, C10, C16, C17",10uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+7,1,C12,1uf,Device:CP1,Capacitor_THT:CP_Radial_D4.0mm_P1.50mm,~
+8,7,"C14, C15, C18, C19, C20, C22, C24",100nf,Device:C,Resistor_SMD:R_0805_2012Metric,~
+9,2,"C21, C23",100NF,Device:C,Resistor_SMD:R_0805_2012Metric,~
+10,2,"H1, H2",MountingHole,Mechanical:MountingHole,MountingHole:MountingHole_2.5mm,~
+11,3,"J1, J6, J16",Conn_01x02,Connector_Generic:Conn_01x02,Connector_Coaxial:SMA_Amphenol_132134-16_Vertical,~
+12,1,J2,Screw_Terminal_01x02,Connector:Screw_Terminal_01x02,TerminalBlock:TerminalBlock_bornier-2_P5.08mm,~
+13,2,"J3, J17",Screw_Terminal_01x03,Connector:Screw_Terminal_01x03,TerminalBlock:TerminalBlock_bornier-3_P5.08mm,~
+14,1,J4,Conn_02x24_Counter_Clockwise,Connector_Generic:Conn_02x24_Counter_Clockwise,Package_DIP:DIP-48_W15.24mm_LongPads,~
+15,5,"J5, J11, J12, J13, J15",Conn_01x03,Connector_Generic:Conn_01x03,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,~
+16,1,J7,Conn_01x13,Connector_Generic:Conn_01x13,Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical,~
+17,3,"J8, J9, J14",Conn_01x02,Connector_Generic:Conn_01x02,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+18,1,J10,Conn_01x01,Connector_Generic:Conn_01x01,Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical,~
+19,1,L1,100uh,Device:L,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+20,2,"L2, L3",47uh,Device:L,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+21,1,R1,100,Device:R,Resistor_SMD:R_1206_3216Metric,~
+22,1,R2,1k,Device:R,Resistor_SMD:R_1206_3216Metric,~
+23,1,R3,240,Device:R,Resistor_SMD:R_1206_3216Metric,~
+24,1,R4,12,Device:R,Resistor_SMD:R_1206_3216Metric,~
+25,1,R5,47,Device:R,Resistor_SMD:R_1206_3216Metric,~
+26,2,"R6, R11",4.7k,Device:R,Resistor_SMD:R_1206_3216Metric,~
+27,1,R7,200,Device:R,Resistor_SMD:R_1206_3216Metric,~
+28,2,"R8, R10",1,Device:R,Resistor_SMD:R_1206_3216Metric,~
+29,1,R9,22,Device:R,Resistor_SMD:R_1206_3216Metric,~
+30,2,"R12, R13",0,Device:R,Resistor_SMD:R_1206_3216Metric,~
+31,2,"R14, R19",50,Device:R,Resistor_SMD:R_1206_3216Metric,~
+32,2,"R15, R18",2K,Device:R,Resistor_SMD:R_1206_3216Metric,~
+33,2,"R16, R17",25,Device:R,Resistor_SMD:R_1206_3216Metric,~
+34,3,"R20, R21, R22",3k3,Device:R,Resistor_SMD:R_1206_3216Metric,~
+35,1,RV1,10,Device:R_POT,Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical,~
+36,2,"RV2, RV3",1k,Device:R_POT,Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical,~
+37,2,"TR1, TR2",ADT4-6T,Transformer:ADT4-6T,RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm,https://www.minicircuits.com/pdfs/ADT4-6T+.pdf
+38,1,U1,LMH6702MF,Amplifier_Operational:LMH6702MF,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/lmh6702.pdf
+39,1,U2,ADC080200,ASBF-rescue:ADC080200-adc080200,Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm,http://www.ti.com/lit/ds/symlink/adc080200.pdf
+40,1,U3,DAC5662A,ASBF-rescue:DAC5662A-libreria-Dac-rescue,Package_QFP:TQFP-48_7x7mm_P0.5mm,

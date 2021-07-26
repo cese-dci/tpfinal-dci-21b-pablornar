@@ -1,0 +1,28 @@
+Drill report for /home/pablo/GitHub/TPFinal-DCI-21B/ASBF/ASBF.kicad_pcb
+Created on mar 13 jul 2021 17:51:13 -03
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ASBF-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,600mm  0,0236"  (10 holes)
+    T2  0,800mm  0,0315"  (85 holes)
+    T3  1,000mm  0,0394"  (35 holes)
+    T4  1,500mm  0,0591"  (3 holes)
+    T5  1,520mm  0,0598"  (8 holes)
+    T6  1,700mm  0,0669"  (12 holes)
+
+    Total plated holes count 153
+
+
+Drill file 'ASBF-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2,500mm  0,0984"  (2 holes)
+
+    Total unplated holes count 2

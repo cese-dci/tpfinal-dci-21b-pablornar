@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 4
+Sheet 4 4
 Title ""
 Date ""
 Rev ""
@@ -28,10 +28,6 @@ F 3 "~" H 5650 3500 50  0001 C CNN
 $EndComp
 Text HLabel 5950 2400 2    50   Input ~ 0
 VCC
-Text HLabel 5950 2500 2    50   BiDi ~ 0
-P1
-Text HLabel 5950 2600 2    50   BiDi ~ 0
-N2
 Text HLabel 5950 2700 2    50   BiDi ~ 0
 N1
 Text HLabel 5950 2800 2    50   BiDi ~ 0
@@ -123,13 +119,46 @@ U8
 Text HLabel 5450 4700 0    50   BiDi ~ 0
 V8
 Wire Notes Line
-	4700 2000 6550 2000
-Wire Notes Line
-	6550 2000 6550 4950
-Wire Notes Line
 	4700 4950 4700 2000
-Wire Notes Line
-	4700 4950 6550 4950
 Text Notes 4750 4850 0    50   ~ 10
 Conector FPGA
+$Comp
+L power:GND #PWR?
+U 1 1 60FCBB33
+P 6350 2800
+AR Path="/60DC5AA5/60FCBB33" Ref="#PWR?"  Part="1" 
+AR Path="/60FCBB33" Ref="#PWR?"  Part="1" 
+AR Path="/6101F213/60FCBB33" Ref="#PWR05"  Part="1" 
+F 0 "#PWR05" H 6350 2550 50  0001 C CNN
+F 1 "GND" H 6355 2627 50  0000 C CNN
+F 2 "" H 6350 2800 50  0001 C CNN
+F 3 "" H 6350 2800 50  0001 C CNN
+	1    6350 2800
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	4700 2000 7950 2000
+Wire Notes Line
+	7950 4950 7950 2000
+Wire Notes Line
+	4700 4950 7950 4950
+$Comp
+L Connector:Screw_Terminal_01x03 J17
+U 1 1 60FC9BE6
+P 6650 2600
+F 0 "J17" H 6730 2642 50  0000 L CNN
+F 1 "Screw_Terminal_01x03" H 6730 2551 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 6650 2600 50  0001 C CNN
+F 3 "~" H 6650 2600 50  0001 C CNN
+	1    6650 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6450 2700 6350 2700
+Wire Wire Line
+	6350 2700 6350 2800
+Wire Wire Line
+	5950 2500 6450 2500
+Wire Wire Line
+	5950 2600 6450 2600
 $EndSCHEMATC
