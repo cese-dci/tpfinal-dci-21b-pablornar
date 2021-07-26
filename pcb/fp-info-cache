@@ -1,204 +1,218 @@
-46907503865739
-Connector_Coaxial
-BNC_Amphenol_031-6575_Horizontal
-dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
-Dual BNC Amphenol Horizontal
+50214741099527
+RF_Mini-Circuits
+Mini-Circuits_BK377
+Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf)
+Mini-circuits BK377
+0
+14
+14
+RF_Mini-Circuits
+Mini-Circuits_BK377_LandPatternPL-005
+Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf) according to land-pattern PL-005, including GND vias (https://ww2.minicircuits.com/pcb/98-pl005.pdf)
+Mini-circuits VCXO JTOS PL-005
+0
+50
+14
+RF_Mini-Circuits
+Mini-Circuits_CD541_H2.08mm
+https://ww2.minicircuits.com/case_style/CD541.pdf
+RF Transformer
 0
 6
-4
-Connector_Coaxial
-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
-http://www.farnell.com/datasheets/612848.pdf
-BNC Amphenol Horizontal
-0
-4
-2
-Connector_Coaxial
-BNC_PanelMountable_Vertical
-Panel-mountable BNC connector mounted through PCB, vertical
-BNC connector
-0
-2
-2
-Connector_Coaxial
-BNC_TEConnectivity_1478204_Vertical
-BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html
-BNC female PCB mount 4 pin straight chassis connector 
-0
-5
-2
-Connector_Coaxial
-BNC_Win_364A2x95_Horizontal
-Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)
-Dual BNC Horizontal Isolated
+6
+RF_Mini-Circuits
+Mini-Circuits_CD542_H2.84mm
+https://ww2.minicircuits.com/case_style/CD542.pdf
+RF Transformer
 0
 6
-3
-Connector_Coaxial
-CoaxialSwitch_Hirose_MS-156C3_Horizontal
-Subminiature Coaxial Switch 1.35mm High, DC to 11GHz
-Switch Coaxial RF
+6
+RF_Mini-Circuits
+Mini-Circuits_CD542_LandPatternPL-052
+Footprint for Mini-Circuits case CD542 (https://ww2.minicircuits.com/case_style/CD542.pdf) using land-pattern PL-052, including GND-vias (https://ww2.minicircuits.com/pcb/98-pl052.pdf)
+MiniCircuits PL-052 CD542
 0
-12
-3
-Connector_Coaxial
-MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB
-Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
-Molex MMCX Horizontal Coaxial
+17
+6
+RF_Mini-Circuits
+Mini-Circuits_CD542_LandPatternPL-094
+Footprint for mini circuit case CD542, Land pattern PL-094, pads 5 and 2 connected via insulated copper area below body, vias included (case drawing: https://ww2.minicircuits.com/case_style/CD542.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl094.pdf)
+mini-circuits CD542 pl-094
 0
-3
-2
-Connector_Coaxial
-MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
-Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
-Molex MMCX Horizontal Coaxial
+18
+6
+RF_Mini-Circuits
+Mini-Circuits_CD636_H4.11mm
+https://ww2.minicircuits.com/case_style/CD636.pdf
+RF Transformer
 0
-3
-2
-Connector_Coaxial
-MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB
-Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
-Molex MMCX Horizontal Coaxial
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_CD636_LandPatternPL-035
+Footprint for Mini-Circuits case CD636 (https://ww2.minicircuits.com/case_style/CD636.pdf) following land pattern PL-035, including GND-vias (https://ww2.minicircuits.com/pcb/98-pl035.pdf)
+mini-circuits pl-035 CD636
 0
-3
-2
-Connector_Coaxial
-MMCX_Molex_73415-1471_Vertical
-http://www.molex.com/pdm_docs/sd/734151471_sd.pdf
-Molex MMCX Coaxial Connector 50 ohms Female Jack Vertical THT
+13
+6
+RF_Mini-Circuits
+Mini-Circuits_CD637_H5.23mm
+https://ww2.minicircuits.com/case_style/CD637.pdf
+RF Transformer
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_901-144_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/7023/product/3103/901_144_customer_drawing.pdf
-SMA THT Female Jack Vertical
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_CK605
+Footprint for Mini-Circuits case CK605 (https://ww2.minicircuits.com/case_style/CK605.pdf)
+Mini-Circuits CK605
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132134-10_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf
-SMA SMD Female Jack Vertical
+16
+16
+RF_Mini-Circuits
+Mini-Circuits_CK605_LandPatternPL-012
+Footprint for Mini-Circuits case CK605 (https://ww2.minicircuits.com/case_style/CK605.pdf) following land pattern PL-012, including GND vias (https://ww2.minicircuits.com/pcb/98-pl012.pdf)
+Mini-Circuits PL-012
 0
-3
-2
-Connector_Coaxial
-SMA_Amphenol_132134-11_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/3406/product/2975/132134_11_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+53
+16
+RF_Mini-Circuits
+Mini-Circuits_DB1627
+Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)
+Mini-Circuits DB1627
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132134-14_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/1793/product/2976/132134_14_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_GP731
+Footprint for Mini-Circuits case GP731 (https://ww2.minicircuits.com/case_style/GP731.pdf)
+Mini-Circuits GP731
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132134-16_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/1141/product/2978/132134_16_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+8
+8
+RF_Mini-Circuits
+Mini-Circuits_GP731_LandPatternPL-176
+Footprint for Mini-Circuits case GP731 (https://ww2.minicircuits.com/case_style/GP731.pdf) following land pattern PL-176, including GND vias (https://www.minicircuits.com/pcb/98-pl176.pdf)
+mini-circuits PL-176
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132134_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/2187/product/2843/132134_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
+21
+8
+RF_Mini-Circuits
+Mini-Circuits_GP1212
+Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf)
+mini-circuits GP1212
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132203-12_Horizontal
-https://www.amphenolrf.com/media/downloads/1769/132203-12.pdf
-SMA THT Female Jack Horizontal
+8
+8
+RF_Mini-Circuits
+Mini-Circuits_GP1212_LandPatternPL-176
+Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf) following land pattern PL-176, including GND vias (https://www.minicircuits.com/pcb/98-pl176.pdf)
+mini-circuits PL-176
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132289_EdgeMount
-http://www.amphenolrf.com/132289.html
-SMA
+21
+8
+RF_Mini-Circuits
+Mini-Circuits_HF1139
+Footprint for Mini-Circuits case HF1139 (https://ww2.minicircuits.com/case_style/HF1139.pdf)
+Mini-Circuits HF1139
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132291-12_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/1688/product/3020/132291_12_customer_drawing.pdf
-SMA THT Female Jack Vertical Bulkhead
+8
+8
+RF_Mini-Circuits
+Mini-Circuits_HF1139_LandPatternPL-230
+Footprint for Mini-Circuits case HF1139 (https://ww2.minicircuits.com/case_style/HF1139.pdf) following land pattern PL-230, including GND vias (https://ww2.minicircuits.com/pcb/98-pl230.pdf)
+Mini-Circuits PL-230
 0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132291_Vertical
-https://www.amphenolrf.com/downloads/dl/file/id/3222/product/2918/132291_customer_drawing.pdf
-SMA THT Female Jack Vertical Bulkhead
+37
+8
+RF_Mini-Circuits
+Mini-Circuits_HQ1157
+Footprint for Mini-Circuits case HQ1157 (https://www.minicircuits.com/case_style/HQ1157.pdf)
+Mini-Circuits HQ1157
 0
-5
-2
-Connector_Coaxial
-SMA_Molex_73251-1153_EdgeMount_Horizontal
-Molex SMA RF Connectors, Edge Mount, (http://www.molex.com/pdm_docs/sd/732511150_sd.pdf)
-sma edge
+14
+14
+RF_Mini-Circuits
+Mini-Circuits_HZ1198
+Footprint for Mini-Circuits case HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf)
+Mini-Circuits HZ1198
 0
-11
-2
-Connector_Coaxial
-SMA_Molex_73251-2120_EdgeMount_Horizontal
-Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
-sma edge
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_HZ1198_LandPatternPL-247
+Footprint for Mini-Circuits cas HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf) following land pattern PL-247, including GND-vias (https://www.minicircuits.com/pcb/98-pl247.pdf)
+Mini-Circuits PL-247 HZ1198
 0
-11
-2
-Connector_Coaxial
-SMA_Molex_73251-2200_Horizontal
-https://www.molex.com/webdocs/datasheets/pdf/en-us/0732512200_RF_COAX_CONNECTORS.pdf
-SMA THT Female Jack Horizontal
-0
-5
-2
-Connector_Coaxial
-SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount
-http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
-SMA
-0
-5
-2
-Connector_Coaxial
-SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
-Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)
-SMA Straight Samtec Edge Mount
-0
-5
-2
-Connector_Coaxial
-SMA_Wurth_60312002114503_Vertical
-https://www.we-online.de/katalog/datasheet/60312002114503.pdf
-SMA THT Female Jack Vertical ExtendedLegs
-0
-5
-2
-Connector_Coaxial
-SMB_Jack_Vertical
-SMB pcb mounting jack
-SMB Jack  Striaght
-0
-5
-2
-Connector_Coaxial
-U.FL_Hirose_U.FL-R-SMT-1_Vertical
-Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
-Hirose U.FL Coaxial
-0
-3
-2
-Connector_Coaxial
-U.FL_Molex_MCRF_73412-0110_Vertical
-Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
-mcrf hirose ufl u.fl microcoaxial
+40
+6
+RF_Mini-Circuits
+Mini-Circuits_MMM168
+Footprint for Mini-Circuits case MMM168 (https://ww2.minicircuits.com/case_style/MMM168.pdf)
+Mini-Circuits MMM168
 0
 4
-2
+4
+RF_Mini-Circuits
+Mini-Circuits_MMM168_LandPatternPL-225
+Footprint for Mini-Circuits case MMM168, Land pattern PL-225, vias included, (case drawing: https://ww2.minicircuits.com/case_style/MMM168.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl225.pdf)
+pl-225
+0
+10
+4
+RF_Mini-Circuits
+Mini-Circuits_QQQ130_ClockwisePinNumbering
+Footprint for Mini-Circuits case QQQ130 (https://ww2.minicircuits.com/case_style/QQQ130.pdf)
+Mini-Circuits QQQ130
+0
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_QQQ130_LandPattern_PL-236_ClockwisePinNumbering
+Footprint for Mini-Circuits case QQQ130 (https://ww2.minicircuits.com/case_style/QQQ130.pdf) following land pattern PL-236, including GND vias (https://ww2.minicircuits.com/pcb/98-pl236.pdf)
+Mini-Circuits PL-236
+0
+14
+6
+RF_Mini-Circuits
+Mini-Circuits_TT1224_ClockwisePinNumbering
+Footprint for Mini-Circuits case TT1224 (https://ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258, including GND-vias (https://www.minicircuits.com/pcb/98-pl258.pdf)
+Mini-Circuits TT1224
+0
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering
+Footprint for Mini-Circuits case TT1224 (https://ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258, including GND-vias (https://www.minicircuits.com/pcb/98-pl258.pdf)
+PL-258 Mini-Circuits
+0
+26
+6
+RF_Mini-Circuits
+Mini-Circuits_TTT167
+Footprint for Mini-Circuits case TTT167 (https://ww2.minicircuits.com/case_style/TTT167.pdf)
+Mini-Circuits TTT167
+0
+6
+6
+RF_Mini-Circuits
+Mini-Circuits_TTT167_LandPatternPL-079
+Footprint for Mini-Circuits case TTT167 (Mini-Circuits_TTT167_LandPatternPL-079) following land pattern PL-079, including GND vias (https://ww2.minicircuits.com/pcb/98-pl079.pdf)
+Mini-Circuits PL-079
+0
+36
+6
+RF_Mini-Circuits
+Mini-Circuits_YY161
+Footprint for Mini-Circuits case YY161 (https://ww2.minicircuits.com/case_style/YY161.pdf)
+Mini-Circuits YY161
+0
+8
+8
+RF_Mini-Circuits
+Mini-Circuits_YY161_LandPatternPL-049
+Footprint for Mini-Circuits case YY161 (https://ww2.minicircuits.com/case_style/YY161.pdf) using land-pattern PL-049, including GND-connections and vias (https://ww2.minicircuits.com/pcb/98-pl049.pdf)
+mini-circuits pl-049
+0
+36
+8
