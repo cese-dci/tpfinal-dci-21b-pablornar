@@ -593,7 +593,7 @@ Wire Wire Line
 Wire Wire Line
 	5250 2200 5700 2200
 Wire Wire Line
-	5250 1650 5000 1650
+	5250 1650 5050 1650
 Connection ~ 5250 1650
 Wire Wire Line
 	6150 1300 5700 1300
@@ -621,7 +621,7 @@ Wire Wire Line
 	4800 1650 4800 2750
 Connection ~ 4450 1650
 Wire Wire Line
-	4450 1650 4800 1650
+	4450 1650 4750 1650
 Wire Wire Line
 	4200 1300 5200 1300
 Connection ~ 5200 1300
@@ -1181,6 +1181,60 @@ F 1 "MountingHole" H 10200 6155 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.5mm" H 10100 6200 50  0001 C CNN
 F 3 "~" H 10100 6200 50  0001 C CNN
 	1    10100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 6109EAD5
+P 4750 1650
+F 0 "#FLG0102" H 4750 1725 50  0001 C CNN
+F 1 "PWR_FLAG" H 4750 1823 50  0000 C CNN
+F 2 "" H 4750 1650 50  0001 C CNN
+F 3 "~" H 4750 1650 50  0001 C CNN
+	1    4750 1650
+	1    0    0    -1  
+$EndComp
+Connection ~ 4750 1650
+Wire Wire Line
+	4750 1650 4800 1650
+$Comp
+L power:PWR_FLAG #FLG0103
+U 1 1 610A03E8
+P 5050 1650
+F 0 "#FLG0103" H 5050 1725 50  0001 C CNN
+F 1 "PWR_FLAG" H 5050 1823 50  0000 C CNN
+F 2 "" H 5050 1650 50  0001 C CNN
+F 3 "~" H 5050 1650 50  0001 C CNN
+	1    5050 1650
+	1    0    0    -1  
+$EndComp
+Connection ~ 5050 1650
+Wire Wire Line
+	5050 1650 5000 1650
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 610CB41D
+P 9100 5950
+AR Path="/60DC5AA5/610CB41D" Ref="H?"  Part="1" 
+AR Path="/60E06463/610CB41D" Ref="H3"  Part="1" 
+F 0 "H3" H 9200 5996 50  0000 L CNN
+F 1 "MountingHole" H 9200 5905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 9100 5950 50  0001 C CNN
+F 3 "~" H 9100 5950 50  0001 C CNN
+	1    9100 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 610D69A5
+P 10100 5950
+AR Path="/60DC5AA5/610D69A5" Ref="H?"  Part="1" 
+AR Path="/60E06463/610D69A5" Ref="H4"  Part="1" 
+F 0 "H4" H 10200 5996 50  0000 L CNN
+F 1 "MountingHole" H 10200 5905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 10100 5950 50  0001 C CNN
+F 3 "~" H 10100 5950 50  0001 C CNN
+	1    10100 5950
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
