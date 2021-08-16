@@ -8,7 +8,7 @@ dominio del tiempo y en el de la frecuencia.
 
 
 ## Licencia de este trabajo ##
-XXXMENCIONAR ACÁ LA LICENCIAXXX (Editar este párrafo) 
+Licencia: GPLv3
 Y además colcar el archivo de texto de la misma en el directorio raíz.
 Para este TP se pide que la licencia sea de hardware abierto.
 Ver la sección "What license should I use?": https://www.oshwa.org/faq/
