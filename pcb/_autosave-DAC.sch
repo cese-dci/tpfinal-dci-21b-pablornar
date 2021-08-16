@@ -1273,45 +1273,45 @@ Connection ~ 1350 1350
 Wire Wire Line
 	1350 1350 1350 1450
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID1
 U 1 1 615D1773
 P 9650 3400
-F 0 "FID?" H 9735 3446 50  0000 L CNN
+F 0 "FID1" H 9735 3446 50  0000 L CNN
 F 1 "Fiducial" H 9735 3355 50  0000 L CNN
-F 2 "" H 9650 3400 50  0001 C CNN
+F 2 "Fiducial:Fiducial_1.5mm_Mask3mm" H 9650 3400 50  0001 C CNN
 F 3 "~" H 9650 3400 50  0001 C CNN
 	1    9650 3400
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID3
 U 1 1 615D6006
 P 10250 3400
-F 0 "FID?" H 10335 3446 50  0000 L CNN
+F 0 "FID3" H 10335 3446 50  0000 L CNN
 F 1 "Fiducial" H 10335 3355 50  0000 L CNN
-F 2 "" H 10250 3400 50  0001 C CNN
+F 2 "Fiducial:Fiducial_1.5mm_Mask3mm" H 10250 3400 50  0001 C CNN
 F 3 "~" H 10250 3400 50  0001 C CNN
 	1    10250 3400
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID2
 U 1 1 615D6B2B
 P 9650 3700
-F 0 "FID?" H 9735 3746 50  0000 L CNN
+F 0 "FID2" H 9735 3746 50  0000 L CNN
 F 1 "Fiducial" H 9735 3655 50  0000 L CNN
-F 2 "" H 9650 3700 50  0001 C CNN
+F 2 "Fiducial:Fiducial_1.5mm_Mask3mm" H 9650 3700 50  0001 C CNN
 F 3 "~" H 9650 3700 50  0001 C CNN
 	1    9650 3700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID4
 U 1 1 615D76BB
 P 10250 3700
-F 0 "FID?" H 10335 3746 50  0000 L CNN
+F 0 "FID4" H 10335 3746 50  0000 L CNN
 F 1 "Fiducial" H 10335 3655 50  0000 L CNN
-F 2 "" H 10250 3700 50  0001 C CNN
+F 2 "Fiducial:Fiducial_1.5mm_Mask3mm" H 10250 3700 50  0001 C CNN
 F 3 "~" H 10250 3700 50  0001 C CNN
 	1    10250 3700
 	1    0    0    -1  

@@ -19,14 +19,14 @@ U 1 1 6102AF98
 P 5650 3500
 AR Path="/60DC5AA5/6102AF98" Ref="J?"  Part="1" 
 AR Path="/6101F213/6102AF98" Ref="J4"  Part="1" 
-F 0 "J4" H 5700 4817 50  0000 C CNN
-F 1 "Conn_02x24_Counter_Clockwise" H 5700 4726 50  0000 C CNN
+F 0 "J4" H 5700 2200 50  0000 C CNN
+F 1 "Conn_02x24_Counter_Clockwise" H 5700 2100 50  0000 C CNN
 F 2 "Package_DIP:DIP-48_W15.24mm_LongPads" H 5650 3500 50  0001 C CNN
 F 3 "~" H 5650 3500 50  0001 C CNN
 	1    5650 3500
 	1    0    0    -1  
 $EndComp
-Text HLabel 5950 2400 2    50   Input ~ 0
+Text HLabel 5950 2400 1    50   Input ~ 0
 VCC
 Text HLabel 5950 2700 2    50   BiDi ~ 0
 N1
@@ -70,7 +70,7 @@ Text HLabel 5950 4600 2    50   BiDi ~ 0
 L3
 Text HLabel 5950 4700 2    50   BiDi ~ 0
 M3
-Text HLabel 5450 2400 0    50   Input ~ 0
+Text HLabel 5450 2400 1    50   Input ~ 0
 GND
 Text HLabel 5450 2500 0    50   BiDi ~ 0
 R3
@@ -120,7 +120,7 @@ Text HLabel 5450 4700 0    50   BiDi ~ 0
 V8
 Wire Notes Line
 	4700 4950 4700 2000
-Text Notes 4750 4850 0    50   ~ 10
+Text Notes 6650 4300 0    50   ~ 10
 Conector FPGA
 $Comp
 L power:GND #PWR?
@@ -161,4 +161,37 @@ Wire Wire Line
 	5950 2500 6450 2500
 Wire Wire Line
 	5950 2600 6450 2600
+$Comp
+L power:+5V #PWR?
+U 1 1 611C0517
+P 6400 2400
+AR Path="/60DC5AA5/611C0517" Ref="#PWR?"  Part="1" 
+AR Path="/6101F213/611C0517" Ref="#PWR0116"  Part="1" 
+F 0 "#PWR0116" H 6400 2250 50  0001 C CNN
+F 1 "+5V" H 6415 2573 50  0000 C CNN
+F 2 "" H 6400 2400 50  0001 C CNN
+F 3 "" H 6400 2400 50  0001 C CNN
+	1    6400 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 2400 5950 2400
+$Comp
+L power:GND #PWR?
+U 1 1 611C601A
+P 5150 2450
+AR Path="/60DC5AA5/611C601A" Ref="#PWR?"  Part="1" 
+AR Path="/611C601A" Ref="#PWR?"  Part="1" 
+AR Path="/6101F213/611C601A" Ref="#PWR0126"  Part="1" 
+F 0 "#PWR0126" H 5150 2200 50  0001 C CNN
+F 1 "GND" H 5155 2277 50  0000 C CNN
+F 2 "" H 5150 2450 50  0001 C CNN
+F 3 "" H 5150 2450 50  0001 C CNN
+	1    5150 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 2400 5150 2400
+Wire Wire Line
+	5150 2400 5150 2450
 $EndSCHEMATC
